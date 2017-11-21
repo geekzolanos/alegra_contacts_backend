@@ -1,6 +1,6 @@
 <?php
 
-class PriceListsController extends Zend_Controller_Action
+class PricelistsController extends Zend_Controller_Action
 {
     /**
      * Instancia de ApiEndpoint
